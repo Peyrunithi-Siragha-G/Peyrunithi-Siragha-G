@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Peyrunithi-Siragha-G
 - 👀 I’m interested in working as AI developer
-- 🌱 I’m currently learning PowerBi
-- 💞️ I’m currently engaged in preparation of IELTS
+- 🌱 I’ve experience in working with PowerBi and Tableau
+- 💞️ I’m currently working on ML projects
 - 📫 How to reach me kit.25.21bad040@gmail.com
 
 <!---
